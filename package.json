@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "testing_api_filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://VitaliyOl/testing_api_filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /testing_api_filmoteka/"
   },
   "repository": {
     "type": "git",
